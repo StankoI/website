@@ -54,12 +54,12 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Function to view product details
-    function viewProduct(productId) {
-        const product = products.find(p => p.id === productId);
-        alert(`Viewing product: ${product.name}`);
-        // You can implement additional logic here to show the product details page 
-        console.log("viewing product...");
-    }
+    // function viewProduct(productId) {
+    //     const product = products.find(p => p.id === productId);
+    //     alert(`Viewing product: ${product.name}`);
+    //     // You can implement additional logic here to show the product details page 
+    //     console.log("viewing product...");
+    // }
 
     // Make addToCart and viewProduct functions accessible globally
     window.addToCart = addToCart;

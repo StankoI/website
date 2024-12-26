@@ -4,71 +4,62 @@
         "name": "Въдица Осако 3,90",
         "type": "rod",
         "price": 55.99,
-        "image": "images/fishing-rod.jpg",
-        "page": "Osako390.html" 
+        "image": "images/fishing-rod.jpg"
     },
     {
         "id": 2,
         "name": "Макара Осако RS10000",
         "type": "reel",
         "price": 49.99,
-        "image": "images/fishing-reel.jpg",
-        "page": "" 
+        "image": "images/fishing-reel.jpg"
     },
     {
         "id": 3,
         "name": "Влакно про FL 300m",
         "type": "line",
         "price": 9.99,
-        "image": "images/fishing-line.jpg",
-        "page": "nqma" 
+        "image": "images/fishing-line.jpg"
     },
     {
         "id": 4,
         "name": "Фидер хранилка",
         "type": "feeder",
         "price": 2.50,
-        "image": "images/fishing-line.jpg",
-        "page": "" 
+        "image": "images/fishing-line.jpg"
     },
     {
         "id": 4,
         "name": "FEEDER",
         "type": "feeder",
         "price": 80.88,
-        "image": "images/fishing-line.jpg",
-        "page": "" 
+        "image": "images/fishing-line.jpg"
     },
     {
         "id": 4,
         "name": "FEEDER",
         "type": "feeder",
         "price": 80.88,
-        "image": "images/fishing-line.jpg",
-        "page": "" 
+        "image": "images/fishing-line.jpg"
     },
     {
         "id": 4,
         "name": "FEEDER",
         "type": "feeder",
         "price": 80.88,
-        "image": "images/fishing-line.jpg",
-        "page": "" 
+        "image": "images/fishing-line.jpg"
     },
     {
         "id": 4,
         "name": "FEEDER",
         "type": "feeder",
         "price": 80.88,
-        "image": "images/fishing-line.jpg",
-        "page": "" 
+        "image": "images/fishing-line.jpg"
     },
     {
         "id": 4,
         "name": "FEEDER",
         "type": "feeder",
         "price": 80.88,
-        "image": "images/fishing-line.jpg",
-        "page": "" 
+        "image": "images/fishing-line.jpg"
     }
 ]

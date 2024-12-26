@@ -51,5 +51,5 @@ function addToCart(product) {
 function viewProduct(product) {
     // const product = products.find(p => p.id === productId);
     console.log(`Viewing product: ${product.page}`);
-    window.location.href = product.page;
+    window.location.href = `temp.html?id=${product.id}`;
 }
